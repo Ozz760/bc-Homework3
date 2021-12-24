@@ -9,4 +9,6 @@ From lines 15 to 43, I added lines of code with if statements and if else statem
 
 At the end of the code I could not figure out what exacly why my code was not working properly. I needed help with the final touches. 
 
+ https://ozz760.github.io/bc-Homework3/
+
 ![Screen Shot 2021-12-23 at 10 35 36 PM](https://user-images.githubusercontent.com/95610872/147325571-37ca36a3-934e-4f86-90ac-80ca72fcb41f.png)
